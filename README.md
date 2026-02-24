@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SwastikSrivastava19
 - 👀 I’m interested in Learning new things !
 - 🌱 I’m currently learning Data Structures & Algorithms 
-- 📫 How to reach me - Email : yashusrivastava4145@gmail.com
+- 📫 How to reach me - Email : codewithswastik19@gmail.com
 
 
 <!---
