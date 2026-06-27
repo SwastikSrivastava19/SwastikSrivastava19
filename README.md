@@ -297,9 +297,9 @@ Built and scaled a technical education brand from zero to **29,000+ Instagram fo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/refs/heads/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SwastikSrivastava19/SwastikSrivastava19/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
